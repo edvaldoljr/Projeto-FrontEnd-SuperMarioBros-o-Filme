@@ -1,5 +1,7 @@
 # Projeto Super Mario Bros - O Filme
 
+![](https://github.com/edvaldoljr/Projeto-FrontEnd-SuperMarioBros-o-Filme/blob/main/src/imagens/img-projeto.gif?raw=true)
+
 A aplicação é uma ferramenta interativa e intuitiva que oferece aos usuários a possibilidade de visualizar trailers de filmes e séries de maneira rápida e fácil. Com uma interface atraente e fácil de usar, a aplicação permite que os usuários explorem as últimas novidades e tendências em entretenimento, tudo a partir de um único lugar. Além disso, a aplicação inclui uma função de modal que permite aos usuários assistir a trailers em tela cheia, com uma excelente qualidade de imagem e som. Se você é apaixonado por entretenimento e gosta de ficar por dentro das últimas novidades, não perca a chance de experimentar esta incrível aplicação.
 
 ## Requisitos:
@@ -407,8 +409,6 @@ Estamos hospedando nosso projeto no GitPages, uma plataforma de hospedagem gratu
 ## Acesso o Link e assista o Trailler:
 
 https://edvaldoljr.github.io/Projeto-FrontEnd-SuperMarioBros-o-Filme/
-
-![](https://github.com/edvaldoljr/Projeto-FrontEnd-SuperMarioBros-o-Filme/blob/main/src/imagens/img-projeto.gif?raw=true)
 
 # ⭐️ **Deixe um Star** ⭐️
 
