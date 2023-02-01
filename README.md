@@ -408,7 +408,7 @@ Estamos hospedando nosso projeto no GitPages, uma plataforma de hospedagem gratu
 
 https://edvaldoljr.github.io/Projeto-FrontEnd-SuperMarioBros-o-Filme/
 
-
+![](https://github.com/edvaldoljr/Projeto-FrontEnd-SuperMarioBros-o-Filme/blob/main/src/imagens/img-projeto.gif?raw=true)
 
 # ⭐️ **Deixe um Star** ⭐️
 
